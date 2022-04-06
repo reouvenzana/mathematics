@@ -1,2 +1,2 @@
-# mathematics
+# Mathematics
 All my mathematics notebooks
